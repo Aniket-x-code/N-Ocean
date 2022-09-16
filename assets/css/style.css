@@ -150,5 +150,9 @@ header .container
   font-size: var(--fs-7);
   padding: 8px 12px;
   border-radius: 4px;
-
 }
+.navbar-link:is(:hover,:focus)
+{
+  background: var(--davys-gray);
+}
+
