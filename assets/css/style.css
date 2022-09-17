@@ -156,3 +156,13 @@ header .container
   background: var(--davys-gray);
 }
 
+.navbar-toggle-btn
+{
+  color: var(--white);
+  font-size: 30px;
+  padding: 5px;
+}
+.header-action
+{
+display: none;
+}
