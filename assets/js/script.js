@@ -1,6 +1,12 @@
 'use strict';
 
-const  ekemToggleFunc = function (elem){elem.classlist.toggle("active")}
+const  elemToggleFunc = function (elem){elem.classlist.toggle("active")}
 
 // navbar variables
 const navbar = document.querySelector("[data-navbar]")
+const navbarToggleBtn =  document.querySelector("[data-navbar-toggle-btn]")
+
+
+navbarToggleBtn.addEventListener("click", function(){
+    elemToggleFunc(navbar);
+})
