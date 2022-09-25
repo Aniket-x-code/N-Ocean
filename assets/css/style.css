@@ -242,7 +242,7 @@ display: none;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 11px;
 }
 .hero-banner {
   border: 20px solid var(--eerie-black-1);
