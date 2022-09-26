@@ -135,6 +135,8 @@ button
 .btn-primary {
   background: var(--golden-pur);
   color: var(--black);
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .btn-primary:is(:hover, :focus) { --golden-pur: hsl(274, 92%, 55%); }
