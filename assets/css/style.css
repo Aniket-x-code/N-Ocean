@@ -490,3 +490,10 @@ display: none;
   font-size: var(--fs-7);
   line-height: 1.5;
 }
+
+
+/* explore pdt */
+.explore-product {
+  background: var(--eerie-black-2);
+  padding: 60px 0;
+}
