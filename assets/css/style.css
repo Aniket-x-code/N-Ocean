@@ -405,3 +405,34 @@ display: none;
   padding: 4px 10px;
   border-radius: 4px;
 }
+
+
+/* about */
+
+.about { padding: 60px 0; }
+
+.about-title {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.about-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 25px;
+  margin: 0 10px;
+}
+
+.about-item {
+  background: var(--eerie-black-2);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.about-card {
+  position: relative;
+  padding: 30px 10px 20px;
+  border: 1px solid var(--golden-pur);
+  border-radius: 4px;
+  text-align: center;
+}
