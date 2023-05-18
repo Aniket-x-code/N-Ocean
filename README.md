@@ -1,6 +1,6 @@
 # N-Ocean
   N-Ocean is a NFT marketplace website design , created from scratch using Hmtl, Css, Javascript.
-  The user can like his favourite NFT and can explore different types of NFT and sellers of the Day.
+  The user can like his favourite NFT and can explore different types of NFT and top sellers of the Day.
 
 ![image](https://user-images.githubusercontent.com/73299058/192652949-7ae613be-46a8-4ce6-b42b-6e11685829d2.png)
 
